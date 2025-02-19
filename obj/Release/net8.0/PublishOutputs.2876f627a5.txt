@@ -1,0 +1,12 @@
+/Users/rkspx/learnspace/dotnet/APMDemo/out/APMDemo
+/Users/rkspx/learnspace/dotnet/APMDemo/out/appsettings.Development.json
+/Users/rkspx/learnspace/dotnet/APMDemo/out/appsettings.json
+/Users/rkspx/learnspace/dotnet/APMDemo/out/APMDemo.dll
+/Users/rkspx/learnspace/dotnet/APMDemo/out/APMDemo.deps.json
+/Users/rkspx/learnspace/dotnet/APMDemo/out/APMDemo.runtimeconfig.json
+/Users/rkspx/learnspace/dotnet/APMDemo/out/APMDemo.pdb
+/Users/rkspx/learnspace/dotnet/APMDemo/out/Microsoft.AspNetCore.OpenApi.dll
+/Users/rkspx/learnspace/dotnet/APMDemo/out/Microsoft.OpenApi.dll
+/Users/rkspx/learnspace/dotnet/APMDemo/out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rkspx/learnspace/dotnet/APMDemo/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rkspx/learnspace/dotnet/APMDemo/out/Swashbuckle.AspNetCore.SwaggerUI.dll

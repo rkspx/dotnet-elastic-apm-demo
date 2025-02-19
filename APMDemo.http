@@ -1,0 +1,6 @@
+@APMDemo_HostAddress = http://localhost:5165
+
+GET {{APMDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
